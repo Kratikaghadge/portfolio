@@ -112,15 +112,15 @@ link: www.linkedin.com/in/kratika-ghadge-9aa11627a
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/@kratika__19
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Kratikaghadge
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/krati._.ka
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
